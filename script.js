@@ -22,7 +22,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "320",
             "age": "29",
             "experience": "7",
-            "college": "Illinois"
+            "college": "Illinois",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/nick-allegretti.png"
         },
         {
             "name": "Kazmeir Allen",
@@ -32,7 +33,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "176",
             "age": "25",
             "experience": "1",
-            "college": "UCLA"
+            "college": "UCLA",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/kazmeir-allen.png"
         },
         {
             "name": "Dorance Armstrong",
@@ -42,7 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "255",
             "age": "27",
             "experience": "8",
-            "college": "Kansas"
+            "college": "Kansas",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/dorance-armstrong.png"
         },
         {
             "name": "John Bates",
@@ -52,7 +55,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "259",
             "age": "27",
             "experience": "5",
-            "college": "Boise State"
+            "college": "Boise State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/john-bates.png"
         },
         {
             "name": "Nick Bellore",
@@ -62,7 +66,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "250",
             "age": "36",
             "experience": "15",
-            "college": "Central Michigan"
+            "college": "Central Michigan",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/nick-bellore.png"
         },
         {
             "name": "Tyler Biadasz",
@@ -72,7 +77,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "318",
             "age": "27",
             "experience": "6",
-            "college": "Wisconsin"
+            "college": "Wisconsin",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/tyler-biadasz.png"
         },
         {
             "name": "Noah Brown",
@@ -82,7 +88,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "225",
             "age": "29",
             "experience": "9",
-            "college": "Ohio State"
+            "college": "Ohio State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/noah-brown.png"
         },
         {
             "name": "Percy Butler",
@@ -92,7 +99,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "191",
             "age": "25",
             "experience": "4",
-            "college": "Louisiana"
+            "college": "Louisiana",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/percy-butler.png"
         },
         {
             "name": "Brandon Coleman",
@@ -102,7 +110,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "320",
             "age": "24",
             "experience": "2",
-            "college": "TCU"
+            "college": "TCU",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/brandon-coleman.png"
         },
         {
             "name": "Sam Cosmi",
@@ -112,7 +121,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "309",
             "age": "26",
             "experience": "5",
-            "college": "Texas"
+            "college": "Texas",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/sam-cosmi.png"
         },
         {
             "name": "Jayden Daniels",
@@ -122,7 +132,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "210",
             "age": "24",
             "experience": "2",
-            "college": "LSU"
+            "college": "LSU",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/jayden-daniels.png"
         },
         {
             "name": "Sheldon Day",
@@ -132,7 +143,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "285",
             "age": "30",
             "experience": "9",
-            "college": "Notre Dame"
+            "college": "Notre Dame",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/sheldon-day.png"
         },
         {
             "name": "Michael Deiter",
@@ -142,7 +154,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "310",
             "age": "28",
             "experience": "7",
-            "college": "Wisconsin"
+            "college": "Wisconsin",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/michael-deiter.png"
         },
         {
             "name": "Austin Ekeler",
@@ -152,7 +165,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "200",
             "age": "30",
             "experience": "9",
-            "college": "Western State"
+            "college": "Western State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/austin-ekeler.png"
         },
         {
             "name": "Zach Ertz",
@@ -162,7 +176,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "250",
             "age": "34",
             "experience": "13",
-            "college": "Stanford"
+            "college": "Stanford",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/zach-ertz.png"
         },
         {
             "name": "Viliami Fehoko Jr.",
@@ -172,7 +187,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "267",
             "age": "25",
             "experience": "2",
-            "college": "San Jose State"
+            "college": "San Jose State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/viliami-fehoko-jr.png"
         },
         {
             "name": "Clelin Ferrell",
@@ -182,7 +198,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "265",
             "age": "28",
             "experience": "7",
-            "college": "Clemson"
+            "college": "Clemson",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/clelin-ferrell.png"
         },
         {
             "name": "Matt Gay",
@@ -192,7 +209,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "232",
             "age": "31",
             "experience": "7",
-            "college": "Utah"
+            "college": "Utah",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/matt-gay.png"
         },
         {
             "name": "Eddie Goldman",
@@ -202,7 +220,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "332",
             "age": "31",
             "experience": "8",
-            "college": "Florida State"
+            "college": "Florida State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/eddie-goldman.png"
         },
         {
             "name": "Julian Good-Jones",
@@ -212,7 +231,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "313",
             "age": "28",
             "experience": "2",
-            "college": "Iowa State"
+            "college": "Iowa State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/julian-good-jones.png"
         },
         {
             "name": "Dominique Hampton",
@@ -222,7 +242,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "220",
             "age": "24",
             "experience": "2",
-            "college": "Washington"
+            "college": "Washington",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/dominique-hampton.png"
         },
         {
             "name": "Will Harris",
@@ -232,7 +253,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "207",
             "age": "29",
             "experience": "7",
-            "college": "Boston College"
+            "college": "Boston College",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/will-harris.png"
         },
         {
             "name": "Terry McLaurin",
@@ -242,7 +264,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "210",
             "age": "29",
             "experience": "6",
-            "college": "Ohio State"
+            "college": "Ohio State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/terry-mclaurin.png"
         },
         {
             "name": "Jonathan Allen",
@@ -252,7 +275,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "300",
             "age": "29",
             "experience": "8",
-            "college": "Alabama"
+            "college": "Alabama",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/jonathan-allen.png"
         },
         {
             "name": "Daron Payne",
@@ -262,7 +286,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "311",
             "age": "27",
             "experience": "7",
-            "college": "Alabama"
+            "college": "Alabama",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/daron-payne.png"
         },
         {
             "name": "Kendall Fuller",
@@ -272,7 +297,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "198",
             "age": "29",
             "experience": "9",
-            "college": "Virginia Tech"
+            "college": "Virginia Tech",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/kendall-fuller.png"
         },
         {
             "name": "Ben Sinnott",
@@ -282,7 +308,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "247",
             "age": "22",
             "experience": "2",
-            "college": "Kansas State"
+            "college": "Kansas State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/ben-sinnott.png"
         },
         {
             "name": "Cole Turner",
@@ -292,7 +319,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "240",
             "age": "25",
             "experience": "3",
-            "college": "Nevada"
+            "college": "Nevada",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/cole-turner.png"
         },
         {
             "name": "Bobby Wagner",
@@ -302,7 +330,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "241",
             "age": "34",
             "experience": "14",
-            "college": "Utah State"
+            "college": "Utah State",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/bobby-wagner.png"
         },
         {
             "name": "Tress Way",
@@ -312,7 +341,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "220",
             "age": "35",
             "experience": "12",
-            "college": "Oklahoma"
+            "college": "Oklahoma",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/tress-way.png"
         },
         {
             "name": "Michael Wiley",
@@ -322,7 +352,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "209",
             "age": "23",
             "experience": "1",
-            "college": "Arizona"
+            "college": "Arizona",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/michael-wiley.png"
         },
         {
             "name": "Deatrich Wise",
@@ -332,7 +363,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "271",
             "age": "30",
             "experience": "9",
-            "college": "Arkansas"
+            "college": "Arkansas",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/deatrich-wise.png"
         },
         {
             "name": "Andrew Wylie",
@@ -342,7 +374,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "309",
             "age": "30",
             "experience": "8",
-            "college": "Eastern Michigan"
+            "college": "Eastern Michigan",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/andrew-wylie.png"
         },
         {
             "name": "Colson Yankoff",
@@ -352,7 +385,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "weight": "225",
             "age": "25",
             "experience": "2",
-            "college": "UCLA"
+            "college": "UCLA",
+            "image": "https://static.clubs.nfl.com/image/private/t_headshot_desktop/commanders/players/headshots/colson-yankoff.png"
         }
     ];
 
@@ -373,8 +407,12 @@ document.addEventListener('DOMContentLoaded', () => {
         playerExperience.textContent = `Experience: ${randomPlayer.experience}`;
         playerCollege.textContent = `College: ${randomPlayer.college}`;
 
-        // Optional: Add logic to display a player image if you have image URLs in your player objects
-        // const playerImageDiv = playerCard.querySelector('.player-image');
-        // playerImageDiv.style.backgroundImage = `url('${randomPlayer.imageUrl}')`;
+        // Display player image
+        const playerImageDiv = playerCard.querySelector('.player-image');
+        if (randomPlayer.image) {
+            playerImageDiv.style.backgroundImage = `url('${randomPlayer.image}')`;
+        } else {
+            playerImageDiv.style.backgroundImage = '';
+        }
     });
 }); 
