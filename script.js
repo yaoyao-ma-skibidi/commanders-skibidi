@@ -532,9 +532,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (lottieAnimation && lottieAnimation.isLoaded) {
             lottieContainer.style.visibility = 'visible';
             console.log("Spin complete. Attempting to play Lottie animation...");
+            console.log("Lottie animation object:", lottieAnimation);
+            console.log("Lottie animation isLoaded:", lottieAnimation.isLoaded);
             // Stop any existing animation and reset to the beginning
             lottieAnimation.stop();
-            lottieAnimation.goToFrame(0, true);
+            // lottieAnimation.goToFrame(0, true);
             lottieAnimation.play();
         } else if (lottieAnimation && !lottieAnimation.isLoaded) {
              console.log("Lottie animation object exists but not loaded when stop clicked.", { isLoaded: lottieAnimation?.isLoaded });
