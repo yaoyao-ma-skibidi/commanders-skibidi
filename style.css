@@ -1,0 +1,112 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.player-card {
+    width: 300px;
+    height: 450px;
+    background-color: #ffffff;
+    border: 5px solid #5A1414; /* Commanders Burgundy */
+    border-radius: 15px;
+    margin: 20px auto;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.team-logo {
+    background-color: #5A1414; /* Commanders Burgundy */
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Add logo image later */
+}
+
+.team-logo::before {
+    content: url('https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg'); /* Commanders Logo SVG */
+    height: 50px; /* Adjust size as needed */
+    width: auto;
+    display: block; /* Ensure the SVG is displayed */
+    transform: scale(0.8); /* Adjust size */
+    transform-origin: center; /* Center the scaling */
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.player-image {
+    flex-basis: 60%; /* Allocate more space for the image */
+    background-color: #cccccc; /* Placeholder */
+    background-size: cover;
+    background-position: center;
+    border-bottom: 2px solid #5A1414; /* Divider */
+}
+
+.player-info {
+    flex-basis: 40%; /* Allocate remaining space for info */
+    background-color: #FFB612; /* Commanders Gold */
+    padding: 10px;
+    text-align: left;
+    color: #5A1414; /* Commanders Burgundy */
+    display: flex; /* Use flex to align name, number, position */
+    flex-direction: column;
+    justify-content: space-between; /* Distribute space */
+}
+
+.player-info h2 {
+    margin: 0 0 5px 0;
+    color: #5A1414; /* Commanders Burgundy */
+    font-size: 1.5em;
+}
+
+.player-info p {
+    margin: 3px 0;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+/* Adding a section for number and position at the bottom */
+.player-details-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 2px solid #5A1414; /* Divider */
+}
+
+.player-details-bottom p {
+    margin: 0;
+}
+
+#roulette-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #5A1414; /* Commanders Burgundy */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#roulette-button:hover {
+    background-color: #FFB612; /* Commanders Gold */
+    color: #5A1414; /* Commanders Burgundy */
+} 
