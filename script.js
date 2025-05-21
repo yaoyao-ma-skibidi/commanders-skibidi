@@ -407,6 +407,9 @@ document.addEventListener('DOMContentLoaded', () => {
         playerExperience.textContent = `Experience: ${randomPlayer.experience}`;
         playerCollege.textContent = `College: ${randomPlayer.college}`;
 
+        // Log the image URL to the console for debugging
+        console.log("Player image URL:", randomPlayer.image);
+
         // Display player image
         const playerImageDiv = playerCard.querySelector('.player-image');
         if (randomPlayer.image) {
